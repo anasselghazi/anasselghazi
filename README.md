@@ -10,7 +10,11 @@
 
 ###
 
-<h5 align="left">const Anass = {<br>    location: "Safi, Morocco",<br>    education: "YouCode | Web Full Stack Development",<br>    currentFocus: ["MVC Architecture", "RESTful APIs", "Microservices"],<br>    learning: ["Design Patterns", "Web Security", "API Architecture","Web Development"],<br>    passion: "Turning complex problems into elegant solutions",<br>    funFact: "I debug code faster than I debug my life choices"<br>};</h5>
+<h5 align="left"></h5>
+  ```
+const Anass = {<br>    location: "Safi, Morocco",<br>    education: "YouCode | Web Full Stack Development",<br>    currentFocus: ["MVC Architecture", "RESTful APIs", "Microservices"],<br>    learning: ["Design Patterns", "Web Security", "API Architecture","Web Development"],<br>    passion: "Turning complex problems into elegant solutions",<br>    funFact: "I debug code faster than I debug my life choices"<br>};
+```
+
 
 ###
 
@@ -59,3 +63,4 @@
 </div>
 
 ###
+
